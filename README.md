@@ -5,4 +5,4 @@
 git clone https://github.com/tansiuu/kodluyoruzilkrepo.git
 
 # License
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
