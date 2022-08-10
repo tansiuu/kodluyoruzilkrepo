@@ -1,2 +1,2 @@
 # kodluyoruzilkrepo
-Kodluyoruz Front-End kapsamında açtığım ilk repo
+[Kodluyoruz](https://www.kodluyoruz.org) Front-End kapsamında açtığım ilk repo
